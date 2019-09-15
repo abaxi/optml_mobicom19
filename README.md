@@ -1,6 +1,5 @@
-# optml_mobicom19
-Code for OptML channel prediction framework
+# Placeholder for code for OptML channel prediction framework
 
--- Code to build an NNDE based on application specific parameters
+### Code to build an NNDE based on application specific parameters
 
--- Code for solving optimization for estimating channel parameters
+### Code for solving optimization for estimating channel parameters
