@@ -1,5 +1,1 @@
-# Placeholder for code for OptML channel prediction framework
-
-### Code to build an NNDE based on application specific parameters
-
-### Code for solving optimization for estimating channel parameters
+Basic code to build an NNDE based on application specific parameters. This should provide a good starting point for more refined versions. "build_nnde.py" is not user friendly right now, but has some comments explaining each parameter. I will refine the code in this repo as I find the time.
